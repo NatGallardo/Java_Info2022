@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "Level2.java",
+        "Level3.java"
+    ],
+    "java.help.collectErrorLog": true
+}
